@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ApplicationGoogle</string>
+    <string name="Login_Title">App de Consulta</string>
+    <string name="Sub_Title">App Personal</string>
+    <string name="Text_Legal1">Al usar esta aplicación esta aceptando nuestras</string>
+    <string name="Text_Legal2">terminos y servicios</string>
+    <string name="Text_Legal3">y</string>
+    <string name="Text_Legal4">nuestra politica de privacidad</string>
+    <string name="Login_cta">Login Google</string>
 </resources>
